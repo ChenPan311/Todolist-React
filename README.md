@@ -2,6 +2,8 @@
 
 First project using React, learned the fundamentals of using React and basic uses of hooks.
 
+![todolist-react](https://user-images.githubusercontent.com/59790491/119228467-cfd0a280-bb1b-11eb-9cdb-fcca48b909c0.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
